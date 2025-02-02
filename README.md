@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-- 👋 Hi, I’m @paras-249<br>🔭 I’m currently a student of software engineering<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 👋 Hi, I’m @paras-249<br>🔭 I’m currently a student of software engineering<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
