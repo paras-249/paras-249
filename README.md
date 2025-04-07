@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 - 👋 Hi, I’m Paras Doye<br>
-🔭 currently a student of software engineering <br>💬 Ask me about<br>⚡ Fun fact
+🔭 currently a student of software engineering <br>💬 A passinate learner <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
