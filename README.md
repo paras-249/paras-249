@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 - 👋 Hi, I’m Paras Doye<br>
-🔭 currently a student of software engineering <br>💬 A passinate learner <br>⚡ Eager to learn
+🔭 currently a student of software engineering <br>💬 UpSkilling  Coding and Development <br>⚡ Eager to learn
 
 
 ## 🌐 Socials:
